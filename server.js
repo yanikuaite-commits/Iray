@@ -20,7 +20,7 @@ const CONFIG = {
         { id: 'a', name: 'Yanick', pin: '8414' },
         { id: 'b', name: 'Iracema', pin: '8614' }
     ],
-    groqApiKey: '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',
+    groqApiKey: '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',
     groqBaseUrl: 'https://api.groq.com/openai/v1',
     groqModel: 'llama-3.3-70b-versatile',
     dataFile: path.join(__dirname, 'data', 'chat.json'),
