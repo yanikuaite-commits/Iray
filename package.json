@@ -1,0 +1,20 @@
+{
+  "name": "iray-app",
+  "version": "1.0.0",
+  "description": "Espaço privado a dois com o Iray — app instalável (PWA), sem WhatsApp, sem risco de ban.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0",
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.1",
+    "web-push": "^3.6.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
