@@ -22,7 +22,7 @@ const CONFIG = {
     ],
     groqApiKey: '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',
     groqBaseUrl: 'https://api.groq.com/openai/v1',
-    groqModel: 'llama-3.3-70b-versatile',
+    groqModel: 'openai/gpt-oss-120b',
     dataFile: path.join(__dirname, 'data', 'chat.json'),
     maxHistory: 500
 };
